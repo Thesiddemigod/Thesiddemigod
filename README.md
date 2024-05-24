@@ -23,9 +23,9 @@
     <a href="https://linkedin.com/in/thesiddemigod" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="35" width="35" /></a>
     <a href="https://www.facebook.com/people/Thesiddemigod/61558476035878/?mibextid=ZbWKwL" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" height="35" width="35" /></a>
     <a href="https://instagram.com/thesiddemigod" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="35" width="35" /></a>
-    <a href="https://x.com/Thesiddemigod" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/x-2.svg" alt="twitter" height="40" width="35" /></a>
-    <a href="https://github.com/thesiddemigod" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="35" width="35" /></a>
-    <a href="mailto:mr.siddharthchauhan23@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="35" width="40" /></a>
+    <a href="https://x.com/Thesiddemigod" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/x-2.svg" alt="x" height="40" width="35" /></a>
+    <a href="https://github.com/thesiddemigod" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="github" height="35" width="35" /></a>
+    <a href="mailto:mr.siddharthchauhan23@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="gmail" height="35" width="40" /></a>
 </p>
 
 <h3 align="left">I work with:</h3>
