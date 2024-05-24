@@ -1,6 +1,6 @@
 <h1 align="center"> 
   <a href="https://github.com/thesiddemigod">
-    <img src="https://readme-typing-svg.demolab.com?font=Monotype+Corsiva&pause=2000&color=800080&width=450&lines=Hello+there+.+I'm+Siddharth+!+👋🏻" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=2000&color=4169E1&width=450&lines=Hello+there+.+I'm+Siddharth+!+👋🏻" alt="Typing SVG">
   </a>
 </h1>
 
