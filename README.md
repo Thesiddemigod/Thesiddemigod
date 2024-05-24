@@ -1,5 +1,7 @@
 <h1 align="center"> 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F7F7F7&width=500&lines=Hi+there+.+I'm+Siddharth+!+👋🏻)](https://github.com/thesiddemigod)
+  <a href="https://github.com/thesiddemigod">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F7F7F7&width=500&lines=Hi+there+.+I'm+Siddharth+!+👋🏻" alt="Typing SVG">
+  </a>
   <img align="center" src="https://media.tenor.com/hlKEXPvlksMAAAAC/tanjiro-demon-slayer.gif" width=150 />  
 </h1>
 <p align="center"> 
