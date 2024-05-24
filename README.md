@@ -70,13 +70,4 @@
     </a>
 </p>
 
-<h3 align="center">✨ My GitHub Activity ✨</h3>  
-<p align="center">
-    <a href="https://github.com/thesiddemigod">
-        <img width="30%" height="20%" src="https://github-readme-stats.vercel.app/api?username=thesiddemigod&theme=dark&hide_border=true&show_icons=true&locale=en" alt="thesiddemigod" />
-        <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=thesiddemigod&theme=dark&hide_border=true" />
-        <img width="24%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesiddemigod&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="thesiddemigod" />
-    </a>
-</p>
-
 <h3 align="center">Show some ❤️ by starring my repositories</h3>
