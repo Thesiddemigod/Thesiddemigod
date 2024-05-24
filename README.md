@@ -3,7 +3,7 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=2000&color=4169E1&width=450&lines=Hello+there+.+I'm+Siddharth+!+👋🏻)](https://github.com/thesiddemigod)
 <img align="center" src="https://c.tenor.com/3tFQxhiDqmgAAAAC/geto-hey.gif" width=150 />  </h1>
 
-<p align="center"><i>A technophile who loves to innovate, build ground-breaking products and empower developer ecosystems/communities.</i></p>
+<p align="center"><i>Tech enthusiast driven by innovation, adept at crafting cutting-edge solutions, and fostering inclusive developer ecosystems.</i></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=thesiddemigod&label=Profile%20views&color=0e75b6&style=flat" alt="thesiddemigod"/></p>
 <br>
 
