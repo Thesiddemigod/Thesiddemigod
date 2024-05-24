@@ -13,7 +13,7 @@
 <ul align="left">
     <li>Pursuing B.TECH CS from AKTU University 🎓</li>
     <li>Full Stack Web and Application Developer 📱</li>
-    <li>Athelete & Fitness YouTuber 💪🏻</li>
+    <li>Hobby Lifter & Fitness YouTuber 💪🏻</li>
 </ul>
 <hr>
 
