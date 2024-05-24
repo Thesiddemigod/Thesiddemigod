@@ -1,5 +1,7 @@
-<h1 align="center"> 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=2000&color=4169E1&width=450&lines=Hello+there+.+I'm+Siddharth+!+👋🏻)](https://github.com/thesiddemigod)
+<h1 align="center">
+  <a href="https://github.com/thesiddemigod">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=2000&color=4169E1&width=450&lines=Hello+there+.+I'm+Siddharth+!+👋🏻" alt="Typing SVG">
+  </a>
   <br>
   <img src="https://c.tenor.com/3tFQxhiDqmgAAAAC/geto-hey.gif" width="150" />
 </h1>
@@ -57,6 +59,15 @@
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="30px"/>
     <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30px"/>
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="30px"/>
+</p>
+
+<h3 align="center">✨ My GitHub Activity ✨</h3>  
+<p align="center">
+    <a href="https://github.com/thesiddemigod">
+        <img width="30%" height="20%" src="https://github-readme-stats.vercel.app/api?username=thesiddemigod&theme=dark&hide_border=true&show_icons=true&locale=en" alt="thesiddemigod" />
+        <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=thesiddemigod&theme=dark&hide_border=true" />
+        <img width="24%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesiddemigod&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="thesiddemigod" />
+    </a>
 </p>
 
 <h3 align="center">✨ My GitHub Activity ✨</h3>  
