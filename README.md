@@ -7,7 +7,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=thesiddemigod&label=Profile%20views&color=0e75b6&style=flat" alt="thesiddemigod"/></p>
 <br>
 
-<img align="right" src="https://c.tenor.com/code-gifs" width=300 margin="100px"/>
+<img align="right" src="https://c.tenor.com/code-gifs" width=500 margin="100px"/>
 
 <h3 align="left">About Me:</h3>
 <ul align="left">
