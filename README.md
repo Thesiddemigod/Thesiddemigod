@@ -13,7 +13,7 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://youtube.com/c/thesiddemigod" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="35" width="35" /></a>
+ <a href="https://youtube.com/@thesiddemigod" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="35" width="35" /></a>
 <a href="https://linkedin.com/in/thesiddemigod" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="35" width="35" /></a>
 <a href="https://facebook.com/thesiddemigod" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="35" width="35" /></a>
 <a href="https://instagram.com/thesiddemigod" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="35" width="35" /></a>
