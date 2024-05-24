@@ -1,6 +1,6 @@
 <h1 align="center"> 
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&random=false&width=280&lines=Hi+there+.+I'm+Siddharth+!+👋🏻)](https://github.com/thesiddemigod)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&random=false&width=300&lines=Hello+there+.+I'm+Siddharth+!+👋🏻)](https://github.com/thesiddemigod)
 <img align="center" src="https://c.tenor.com/3tFQxhiDqmgAAAAC/geto-hey.gif" width=150 />  
 </h1>
 
