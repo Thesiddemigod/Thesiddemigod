@@ -7,12 +7,12 @@
 </h1>
 
 <p align="center"><i>Innovating, crafting solutions, and building inclusive developer communities. Code, Create, Contribute.</i></p>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=thesiddemigod&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=thesiddemigod&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/></p>
 <br>
 
-<div style="display: flex; flex-direction: column; align-items: right;">
-    <img src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width="300" style="max-width:100%; margin-bottom: 20px;"/>
-    <div style="text-align: center;">
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="text-align: left; width: 100%;">
+        <img src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width="300" style="max-width:100%; float: right; margin: 0 0 20px 20px;"/>
         <h3>About Me:</h3>
         <ul style="list-style: none; padding: 0;">
             <li>Pursuing B.TECH CS from AKTU University 🎓</li>
