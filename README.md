@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center"><i>Innovating, crafting solutions, and building inclusive developer communities. Code, Create, Contribute.</i></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=thesiddemigod&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=thesiddemigod&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/></p>
 <br>
 
 <div style="display: flex; flex-direction: column; align-items: right;">
