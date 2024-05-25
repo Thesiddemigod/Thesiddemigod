@@ -6,7 +6,7 @@
   <img src="https://c.tenor.com/3tFQxhiDqmgAAAAC/geto-hey.gif" width="150" />
 </h1>
 
-<p align="center"><i>Tech enthusiast driven by innovation, adept at crafting cutting-edge solutions, and fostering inclusive developer ecosystems.</i></p>
+<p align="center"><i>Innovating, crafting solutions, and building inclusive developer communities. Code, Create, Contribute.</i></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=thesiddemigod&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/></p>
 <br>
 
@@ -15,7 +15,7 @@
 <h3 align="left">About Me:</h3>
 <ul align="left">
     <li>Pursuing B.TECH CS from AKTU University 🎓</li>
-    <li>Full Stack Web and Application Developer 📱</li>
+    <li>Full Stack Web Dev 💻</li>
     <li>Hobby Lifter 💪🏻</li>
 </ul>
 <hr>
@@ -27,7 +27,6 @@
     <a href="https://www.facebook.com/profile.php?id=61558476035878&mibextid=ZbWKwL" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" height="35" width="35" /></a>
     <a href="https://instagram.com/thesiddemigod" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="35" width="35" /></a>
     <a href="https://x.com/Thesiddemigod" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/x-2.svg" alt="X" height="40" width="35" /></a>
-    <a href="https://github.com/thesiddemigod" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" height="35" width="35" /></a>
     <a href="mailto:mr.siddharthchauhan23@gmail.com" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="35" width="40" /></a>
 </p>
 
@@ -45,9 +44,6 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30px"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="30px"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30px"/>       
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" height="30px" />    
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30px" />  
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="30px"/>
     <br>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30px"/>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="30px" />
@@ -70,4 +66,4 @@
     </a>
 </p>
 
-<h3 align="center">Show some ❤️ by starring my repositories</h3>
+<h3 align="center">⭐️ Like what you see? Star my repositories!</h3>
