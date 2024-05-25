@@ -7,10 +7,10 @@
 </h1>
 
 <p align="center"><i>Innovating, crafting solutions, and building inclusive developer communities. Code, Create, Contribute.</i></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=thesiddemigod&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=thesiddemigod&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/></p>
 <br>
 
-<div align="center">
+<div align="right">
     <img src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width="300" style="max-width:100%;"/>
 </div>
 
