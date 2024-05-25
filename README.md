@@ -10,18 +10,20 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=thesiddemigod&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/></p>
 <br>
 
+<div style="clear:both"></div>
+
 <img align="right" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width="300" />
 
-<h3 align="left">About Me:</h3>
-<ul align="left">
+<h3>About Me:</h3>
+<ul>
     <li>Pursuing B.TECH CS from AKTU University 🎓</li>
     <li>Full Stack Web Dev 💻</li>
     <li>Hobby Lifter 💪🏻</li>
 </ul>
 <hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+<p>
     <a href="https://youtube.com/@thesiddemigod" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="35" width="35" /></a>
     <a href="https://linkedin.com/in/thesiddemigod" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="35" width="35" /></a>
     <a href="https://www.facebook.com/profile.php?id=61558476035878&mibextid=ZbWKwL" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" height="35" width="35" /></a>
