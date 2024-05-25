@@ -62,9 +62,9 @@
 <h3 align="center">✨ My GitHub Activity ✨</h3>  
 <p align="center">
     <a href="https://github.com/thesiddemigod">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=thesiddemigod&theme=dark&hide_border=true&show_icons=true&locale=en" alt="GitHub Stats" />
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=thesiddemigod&theme=dark&hide_border=true" alt="GitHub Streak" />
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesiddemigod&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+        <img width="30%" height="20%" src="https://github-readme-stats.vercel.app/api?username=thesiddemigod&theme=dark&hide_border=true&show_icons=true&locale=en" alt="GitHub Stats" />
+        <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=thesiddemigod&theme=dark&hide_border=true" alt="GitHub Streak" />
+        <img width="24%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesiddemigod&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </a>
 </p>
 
