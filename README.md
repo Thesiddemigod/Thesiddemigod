@@ -10,11 +10,11 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=thesiddemigod&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/></p>
 <br>
 
-<div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <img align="right" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width="300" style="margin-left: auto;"/>
+<div style="display: flex; flex-direction: column; align-items: flex-start; max-width: 100%;">
+  <img align="right" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width="300" style="max-width: 100%; height: auto; margin-left: auto; margin-bottom: 20px;"/>
   
   <h3>About Me:</h3>
-  <ul>
+  <ul style="padding-left: 20px;">
       <li>Pursuing B.TECH CS from AKTU University 🎓</li>
       <li>Full Stack Web Dev 💻</li>
       <li>Hobby Lifter 💪🏻</li>
