@@ -10,42 +10,47 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=thesiddemigod&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/></p>
 <br>
 
+<div style="display:flex; align-items:center;">
+  <img align="right" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width="300" />
+
+  <div>
+    <h3>About Me:</h3>
+    <ul>
+      <li>Pursuing B.TECH CS from AKTU University 🎓</li>
+      <li>Full Stack Web Dev 💻</li>
+      <li>Hobby Lifter 💪🏻</li>
+    </ul>
+
+    <h3 align="center">Connect with me:</h3>
+    <p align="center">
+      <a href="https://youtube.com/@thesiddemigod" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="35" width="35" /></a>
+      <!-- Add other social media icons -->
+    </p>
+  </div>
+</div>
+
 <div style="clear:both"></div>
 
-<img align="right" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width="300" />
+<div style="display:flex; align-items:center;">
+  <div>
+    <h3 align="center">I work with:</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30px"/> 
+      <!-- Add other tech badges -->
+    </p>
+  </div>
 
-<h3>About Me:</h3>
-<ul>
-    <li>Pursuing B.TECH CS from AKTU University 🎓</li>
-    <li>Full Stack Web Dev 💻</li>
-    <li>Hobby Lifter 💪🏻</li>
-</ul>
-<hr>
-
-<h3>Connect with me:</h3>
-<p>
-    <a href="https://youtube.com/@thesiddemigod" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="35" width="35" /></a>
-    <a href="https://linkedin.com/in/thesiddemigod" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="35" width="35" /></a>
-    <a href="https://www.facebook.com/profile.php?id=61558476035878&mibextid=ZbWKwL" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" height="35" width="35" /></a>
-    <a href="https://instagram.com/thesiddemigod" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="35" width="35" /></a>
-    <a href="https://x.com/Thesiddemigod" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/x-2.svg" alt="X" height="40" width="35" /></a>
-    <a href="mailto:mr.siddharthchauhan23@gmail.com" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="35" width="40" /></a>
-</p>
-
-<h3>I work with:</h3>
-<p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30px"/> 
-    <!-- Add other badges here -->
-</p>
-
-<h3>Tools I use:</h3>
-<p>
-    <!-- Add tool badges here -->
-</p>
+  <div>
+    <h3 align="center">Tools I use:</h3>
+    <p align="center">
+      <!-- Add tool badges -->
+    </p>
+  </div>
+</div>
 
 <h3 align="center">✨ My GitHub Activity ✨</h3>  
 <p align="center">
-    <!-- Add GitHub activity graphs here -->
+  <!-- Add GitHub activity graphs here -->
 </p>
 
 <h3 align="center">⭐️ Like what you see? Star my repositories!</h3>
