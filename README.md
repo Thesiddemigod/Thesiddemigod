@@ -13,7 +13,7 @@
 <div style="display:flex; align-items:center;">
   <img align="right" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width="300" />
 
-  <div>
+  <div style="margin-right: 20px;">
     <h3>About Me:</h3>
     <ul>
       <li>Pursuing B.TECH CS from AKTU University 🎓</li>
@@ -32,7 +32,7 @@
 <div style="clear:both"></div>
 
 <div style="display:flex; align-items:center;">
-  <div>
+  <div style="margin-right: 20px;">
     <h3 align="center">I work with:</h3>
     <p align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30px"/> 
