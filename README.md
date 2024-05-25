@@ -7,21 +7,21 @@
 </h1>
 
 <p align="center"><i>Innovating, crafting solutions, and building inclusive developer communities. Code, Create, Contribute.</i></p>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=thesiddemigod&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=thesiddemigod&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/></p>
 <br>
 
-<img align="right" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width="300" />
+<img align="right" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width="300" style="max-width:100%;"/>
 
-<h3 align="left">About Me:</h3>
-<ul align="left">
+<h3>About Me:</h3>
+<ul>
     <li>Pursuing B.TECH CS from AKTU University 🎓</li>
     <li>Full Stack Web Dev 💻</li>
     <li>Hobby Lifter 💪🏻</li>
 </ul>
 <hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+<p>
     <a href="https://youtube.com/@thesiddemigod" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="35" width="35" /></a>
     <a href="https://linkedin.com/in/thesiddemigod" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="35" width="35" /></a>
     <a href="https://www.facebook.com/profile.php?id=61558476035878&mibextid=ZbWKwL" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" height="35" width="35" /></a>
@@ -30,8 +30,8 @@
     <a href="mailto:mr.siddharthchauhan23@gmail.com" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="35" width="40" /></a>
 </p>
 
-<h3 align="left">I work with:</h3>
-<p align="left">
+<h3>I work with:</h3>
+<p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30px"/> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30px"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30px"/>
@@ -49,8 +49,8 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="30px" />
 </p>
 
-<h3 align="left">Tools I use:</h3>
-<p align="left">
+<h3>Tools I use:</h3>
+<p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30px"/> 
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="30px"/>
     <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30px"/>
@@ -60,9 +60,9 @@
 <h3 align="center">✨ My GitHub Activity ✨</h3>  
 <p align="center">
     <a href="https://github.com/thesiddemigod">
-        <img width="30%" height="20%" src="https://github-readme-stats.vercel.app/api?username=thesiddemigod&theme=dark&hide_border=true&show_icons=true&locale=en" alt="GitHub Stats" />
-        <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=thesiddemigod&theme=dark&hide_border=true" alt="GitHub Streak" />
-        <img width="24%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesiddemigod&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=thesiddemigod&theme=dark&hide_border=true&show_icons=true&locale=en" alt="GitHub Stats" />
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=thesiddemigod&theme=dark&hide_border=true" alt="GitHub Streak" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesiddemigod&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </a>
 </p>
 
