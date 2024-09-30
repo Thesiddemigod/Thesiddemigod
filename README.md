@@ -29,7 +29,7 @@
     <a href="https://www.facebook.com/thesiddemigod1" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" height="35" width="35" /></a>
     <a href="https://instagram.com/thesiddemigod" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="35" width="35" /></a>
     <a href="https://x.com/Thesiddemigod" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/x-2.svg" alt="X" height="40" width="35" /></a>
-    <a href="mailto:mr.siddharthchauhan23@gmail.com" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="35" width="40" /></a>
+    <a href="mailto:siddemigod1@gmail.com" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="35" width="40" /></a>
 </p>
 
 <h3>I work with:</h3>
