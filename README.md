@@ -1,71 +1,76 @@
 <h1 align="center">
-  <a href="https://github.com/thesiddemigod">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=2000&color=4169E1&width=450&lines=Hello+there+.+I'm+Siddharth+!+👋🏻" alt="Typing SVG">
-  </a>
-  <br>
-  <img src="https://c.tenor.com/3tFQxhiDqmgAAAAC/geto-hey.gif" width="150" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=2000&color=00BFFF&width=450&lines=Hey,+I'm+Siddharth+Chauhan+👋" alt="Typing SVG">
 </h1>
 
-<p align="center"><i>Innovating, crafting solutions, and building inclusive developer communities. Code, Create, Contribute.</i></p>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=thesiddemigod&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/></p>
-<br>
-
-<div align="center">
-    <img src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width="300" style="max-width:100%;"/>
-</div>
-
-<h3>About Me:</h3>
-<ul>
-    <li>Pursuing B.TECH CS from AKTU University 🎓</li>
-    <li>Full Stack Web Dev 💻</li>
-    <li>Hobby Lifter 💪🏻</li>
-</ul>
-<hr>
-
-<h3>Connect with me:</h3>
-<p>
-    <a href="https://youtube.com/@thesiddemigod" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="35" width="35" /></a>
-    <a href="https://linkedin.com/in/thesiddemigod" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="35" width="35" /></a>
-    <a href="https://www.facebook.com/thesiddemigod" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" height="35" width="35" /></a>
-    <a href="https://instagram.com/thesiddemigod" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="35" width="35" /></a>
-    <a href="https://x.com/Thesiddemigod" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/x-2.svg" alt="X" height="40" width="35" /></a>
-    <a href="mailto:siddemigod1@gmail.com" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="35" width="40" /></a>
-</p>
-
-<h3>I work with:</h3>
-<p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30px"/> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30px"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30px"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30px"/>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30px"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30px"/>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30px"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30px"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30px"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="30px"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30px"/>       
-    <br>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30px"/>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="30px" />
-</p>
-
-<h3>Tools I use:</h3>
-<p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30px"/> 
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="30px"/>
-    <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30px"/>
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="30px"/>
-</p>
-
-<h3 align="center">✨ My GitHub Activity ✨</h3>  
 <p align="center">
-    <a href="https://github.com/thesiddemigod">
-        <img width="30%" height="20%" src="https://github-readme-stats.vercel.app/api?username=thesiddemigod&theme=dark&hide_border=true&show_icons=true&locale=en" alt="GitHub Stats" />
-        <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=thesiddemigod&theme=dark&hide_border=true" alt="GitHub Streak" />
-        <img width="24%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesiddemigod&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    </a>
+  <img src="https://img.shields.io/badge/Passionate-Data_Analytics-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/B.Tech-CSE-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learner-4Life-9cf?style=flat-square" />
 </p>
 
-<h3 align="center">⭐️ Like what you see? Star my repositories!</h3>
+---
+
+# 🚀 About Me
+> I'm **Siddharth Chauhan**, a passionate **Data Analytics** enthusiast 🚀  
+> Pursuing **B.Tech in Computer Science Engineering (AKTU - Batch of 2026)**.  
+> Focused on crafting insights from data, solving real-world problems, and constantly evolving into a better version of myself.  
+>  
+> _"This isn't content. It's canon."_
+
+---
+
+# 🔥 Mission
+> **Crafting Solutions. Creating Impact. Elevating Businesses through Data.**
+
+---
+
+# 📚 Current Focus
+- 📊 Data Analytics: Python | Excel | Power BI
+- 🔍 Data Mining Intern @ UptoSkills
+- 🚀 Building real-world analytics projects
+- 📈 Learning advanced BI Tools & Techniques
+
+---
+
+# 📂 Portfolio Highlights
+| Status | Project | Tech Stack |
+|:------:|:--------|:-----------|
+| 🟢 | **Excel Data Dashboard** | Excel, Power Query |
+| 🟡 | **Python Data Analysis** | Pandas, NumPy, Matplotlib |
+| 🟠 | **SQL Database Projects** | MySQL |
+| 🔵 | **Power BI Dashboards** | Power BI (Learning) |
+
+---
+
+# 🛠️ Tools & Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25px"/> 
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/> 
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="25px"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="25px"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25px"/> 
+  <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="25px"/>
+</p>
+
+---
+
+# 📈 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thesiddemigod&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=thesiddemigod&theme=radical" />
+</p>
+
+---
+
+# 🤝 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/thesiddemigod" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"></a>
+  <a href="https://instagram.com/thesiddemigod" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px"></a>
+  <a href="https://x.com/Thesiddemigod" target="_blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" height="30px"></a>
+  <a href="mailto:siddemigod1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px"></a>
+</p>
+
+---
+<h4 align="center">⭐️ Let's Build, Learn, and Level Up Together ⭐️</h4>
