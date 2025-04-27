@@ -12,31 +12,80 @@
 - 📊 Stepping into the Data Analytics field — passion for making sense out of data.
 - 🎯 Currently a **Data Mining & Analytics Intern at UptoSkills**.
 - 🧠 Analytical thinker | Quick learner | Strategic mind.
-- 🔥 Building skills in Data Analysis, SQL, Excel, Power BI, and Python.
+- 🔥 Building skills in **Data Analysis**, **SQL**, **Power BI**, **Tableau**, and **Python**.
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 Tech Stack (Modern Data Analytics Focus)
+
 <div align="left">
+  <!-- Core Technologies -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="25px"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="25px"/>
+  
+  <!-- Advanced Analytics Tools -->
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/PowerShell-2C587C?style=flat-square&logo=powershell&logoColor=white" height="25px"/>
+  
+  <!-- Python Libraries -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0077B5?style=flat-square&logo=matplotlib&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/Seaborn-9A1E2A?style=flat-square&logo=seaborn&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" height="25px"/>
+  
+  <!-- Cloud Platforms and Databases -->
+  <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/SQLServer-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="25px"/>
 </div>
 
 ---
 
 ## 📈 My Journey
 - 🛠️ Current: Data Mining & Analytics Intern at UptoSkills.
-- 🎯 Learning SQL, Advanced Excel, Business Intelligence Tools (Power BI, Tableau).
-- 🏆 Completed foundational certifications in Data Analytics.
-- 🚀 Building mini-projects and case studies around real-world datasets.
+- 🎯 Building expertise in **SQL**, **Advanced Excel**, **Power BI**, **Tableau**, and **Python**.
+- 🏆 Completed foundational certifications in **Data Analytics**, including **Data Analysis**, **Data Visualization**, and **Predictive Analytics**.
+- 🚀 Working on real-world projects using structured and unstructured data.
 
 ---
 
-## 🌟 Portfolio (Coming Soon...)
-> 🚧 Curating impactful projects in Data Analytics, Dashboards, and Insights.
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thesiddemigod&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/thesiddemigod" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/>
+  </a>
+  <a href="https://youtube.com/@thesiddemigod" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30px"/>
+  </a>
+  <a href="https://www.facebook.com/thesiddemigod" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30px"/>
+  </a>
+  <a href="https://instagram.com/thesiddemigod" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px"/>
+  </a>
+  <a href="https://x.com/Thesiddemigod" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/x-2.svg" height="30px"/>
+  </a>
+  <a href="mailto:siddemigod1@gmail.com" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height="30px"/>
+  </a>
+</p>
 
 ---
 
@@ -48,19 +97,11 @@
 
 ---
 
-## 🤝 Let's Connect
-<p align="center">
-  <a href="https://linkedin.com/in/thesiddemigod" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/>
-  </a>
-  <a href="mailto:siddemigod1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px"/>
-  </a>
-  <a href="https://github.com/thesiddemigod" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30px"/>
-  </a>
-</p>
+<p align="center"><i>"This isn't content. It's canon." 🔥</i></p>
 
 ---
 
-<p align="center"><i>"This isn't content. It's canon." 🔥</i></p>
+## ⭐️ Like what you see? 
+<p align="center">
+  <b>If you like my work, don't forget to star my repositories! ⭐</b>
+</p>
