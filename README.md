@@ -1,128 +1,80 @@
 <h1 align="center">
   <a href="https://github.com/thesiddemigod">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=2000&color=4169E1&width=450&lines=Hello!+I'm+Siddharth+Chauhan%2C+Data+Analyst+in+the+making%2C+Aspiring+Data+Scientist" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=2000&color=4169E1&width=450&lines=Welcome+to+My+GitHub+Profile;I'm+Siddharth+Chauhan+%F0%9F%91%8B%F0%9F%8F%BD" alt="Typing SVG">
   </a>
 </h1>
 
-<p align="center"><i>Building data-driven insights. Learning, Growing, and Making an Impact with Data!</i></p>
-
+<p align="center"><i>Analyst in the making, constantly learning and evolving.</i></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=thesiddemigod&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 <br>
 
+<!-- Hero Image for Visual Appeal -->
 <div align="center">
-    <img src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width="300" style="max-width:100%;"/>
+    <img src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width="350" style="max-width:100%;" />
 </div>
-
----
 
 ## About Me
 
-👋 **Hi, I'm Siddharth Chauhan**  
-📚 B.Tech in Computer Science from **Dr. A.P.J Abdul Kalam Technical University (AKTU)**, Class of 2026.  
-💼 Entry-level **Data Analyst** & Aspiring **Data Scientist**  
-🧠 Passionate about leveraging data to make informed decisions and solve complex problems.  
-🎯 Currently building my skills in **Data Analytics**, **Data Science**, and **Machine Learning**.
+I'm **Siddharth Chauhan**, an aspiring **Data Analyst** with a keen interest in **Data Science** and **Analytics**. I’m currently pursuing my **B.Tech in Computer Science** from **AKTU** and am actively learning and growing in the world of data-driven insights.
 
-- Strong foundation in **Python**, **SQL**, and **Data Visualization** tools.
-- Learning continuously through **real-world projects** and **internships**.
+I enjoy solving complex problems through data and believe in **decision-making through data-driven insights**. As a **beginner** in the field, I'm honing my skills in data mining, analytics, and visualization tools to transition into a **Data Scientist** role in the future.
 
----
+- **Data Analytics Enthusiast**
+- **Python & SQL Explorer**
+- **Problem Solver** | **Continuous Learner**
+  
+## My Journey 🚀
 
-## 🚀 Tech Stack
+I am currently diving into **Data Analytics**, gaining experience through hands-on projects, learning tools like **Python**, **SQL**, **Power BI**, **Excel**, and **Tableau**. I am continuously exploring real-world datasets, extracting meaningful insights, and refining my problem-solving skills.
 
-💻 **Programming Languages**:  
-  - Python | SQL | R | JavaScript
+## Tech Stack 🔧
 
-🛠️ **Tools & Libraries**:  
-  - Pandas | NumPy | Matplotlib | Seaborn | Scikit-Learn | Tableau | Power BI | Excel
+Below are some of the technologies I use and am learning:
 
-🔗 **Databases**:  
-  - MySQL | PostgreSQL | MongoDB
+### Programming Languages & Tools:
+- **Python** | **SQL** | **R** | **Java**
+- **Tableau** | **Power BI** | **Excel** | **Jupyter**
+- **Git** | **VS Code** | **Anaconda**
 
-🔧 **Version Control**:  
-  - Git | GitHub
+### Frameworks & Libraries:
+- **Pandas** | **NumPy** | **Matplotlib** | **Seaborn**
+- **TensorFlow** | **Scikit-learn**
 
----
+### Databases:
+- **MySQL** | **MongoDB** | **PostgreSQL**
 
-## 🧑‍💻 Projects
+### Cloud Platforms & Dev Tools:
+- **AWS** | **Azure** | **Google Cloud** | **Docker**
 
-Here are some of the key projects I've worked on:
+## My Work / Portfolio 📈
 
-- **[Sales Prediction using Python & Machine Learning](#)**  
-  A project aimed at predicting sales trends using historical data and building machine learning models.
+Check out the repositories below for some of my work:
 
-- **[Customer Segmentation Analysis](#)**  
-  Applied clustering techniques to segment customers based on purchasing behaviors using k-means clustering.
+- **[Data Analysis Projects](https://github.com/thesiddemigod)**: From data wrangling to data visualization and predictive analysis.
+- **[Machine Learning Models](https://github.com/thesiddemigod)**: Exploring the basics of machine learning algorithms and applications.
 
-- **[Data Visualization with Tableau](#)**  
-  Developed interactive dashboards to visualize real-time data for business decision-makers.
+(Consider adding links to relevant projects here)
 
-You can find more of my work in my **[GitHub Repositories](https://github.com/thesiddemigod)**.
-
----
-
-## 📚 My Journey
-
-1. **Learning the Basics** (2023)  
-   Gained a strong foundation in **Python** and **SQL** through coursework and online resources.
-
-2. **Internships** (2024-2025)  
-   Worked on **real-world data analytics projects** and enhanced my practical skills in data analysis, data cleaning, and reporting.
-
-3. **Building Real-World Experience** (Ongoing)  
-   Currently learning advanced tools and technologies like **Power BI**, **Tableau**, and **Machine Learning** for predictive analytics.
-
----
-
-## 📈 GitHub Stats
+## GitHub Stats 📊
 
 <p align="center">
-    <a href="https://github.com/thesiddemigod">
-        <img width="30%" height="20%" src="https://github-readme-stats.vercel.app/api?username=thesiddemigod&theme=dark&hide_border=true&show_icons=true&locale=en" alt="GitHub Stats" />
-        <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=thesiddemigod&theme=dark&hide_border=true" alt="GitHub Streak" />
-        <img width="24%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesiddemigod&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    </a>
+  <a href="https://github.com/thesiddemigod">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=thesiddemigod&theme=dark&hide_border=true&show_icons=true&locale=en" alt="GitHub Stats" />
+    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=thesiddemigod&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
----
+## Let's Connect 🌐
 
-## 💬 Let's Connect!
+You can find me on the following platforms:
+- [LinkedIn](https://linkedin.com/in/thesiddemigod)
+- [Twitter](https://x.com/thesiddemigod)
+- [Instagram](https://instagram.com/thesiddemigod)
+- [Gmail](mailto:siddemigod1@gmail.com)
 
-- **LinkedIn**: [Siddharth Chauhan](https://linkedin.com/in/thesiddemigod)
-- **Twitter**: [@Thesiddemigod](https://x.com/Thesiddemigod)
-- **Email**: [siddemigod1@gmail.com](mailto:siddemigod1@gmail.com)
-- **YouTube**: [TheSiddemigod](https://youtube.com/@thesiddemigod)
+## ⭐ Star my Repositories if you like my work!
 
----
+Feel free to explore and star my repositories if they resonate with you. Your feedback is appreciated!
 
-⭐️ **Enjoy my work?** Feel free to star my repositories! Let's build a future together with data-driven solutions.
-
----
-
-## ⚙️ Best Practices I Follow
-
-- **KISS (Keep It Simple, Stupid)** – I simplify processes, code, and design to ensure clarity and maintainability.
-- **DRY (Don’t Repeat Yourself)** – I write reusable code and avoid duplication to keep my codebase clean and efficient.
-- **SOLID Principles** – My projects follow object-oriented design principles to ensure flexibility and scalability.
-- **Test-Driven Development (TDD)** – I prefer writing tests before developing new features to ensure quality and stability.
-- **Security Best Practices** – I adhere to best practices for securing applications, especially around data privacy and integrity.
-
----
-
-## 💼 Currently Learning
-
-- **Advanced Data Analytics**  
-- **Machine Learning** (Supervised & Unsupervised Learning)
-- **Big Data Technologies**  
-- **Data Engineering Concepts**
-
----
-
-## 📈 Looking to Collaborate
-
-I’m always open to collaborating on data science, analytics, and machine learning projects. If you have an interesting project, reach out, and let’s build something amazing together!
-
----
-
-<p align="center">
-    <img width="50%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" />
-</p>
