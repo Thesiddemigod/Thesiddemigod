@@ -23,37 +23,30 @@
 
 ---
 
-## 📊 Tech Stack (Modern Data Analytics Focus)
-
-<div align="left">
-  <!-- Core Technologies -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25px"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" height="25px"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" height="25px"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="25px"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="25px"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="25px"/>
-  
-  <!-- Advanced Analytics Tools -->
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" height="25px"/>
-  <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" height="25px"/>
-  <img src="https://img.shields.io/badge/PowerShell-2C587C?style=flat-square&logo=powershell&logoColor=white" height="25px"/>
-  
-  <!-- Python Libraries -->
+## Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30px"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="30px"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/Matplotlib-0077B5?style=flat-square&logo=matplotlib&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/Seaborn-9A1E2A?style=flat-square&logo=seaborn&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="25px"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="25px"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" height="25px"/>
-  
-  <!-- Cloud Platforms and Databases -->
   <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/SQLServer-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="25px"/>
-</div>
+</p>
+
+
 
 ---
 
