@@ -13,11 +13,11 @@
 ---
 
 ## About Me
-- 🎓 Currently pursuing B.Tech in Computer Science Engineering from Dr. A.P.J. Abdul Kalam Technical University (AKTU), graduating in 2026.
-- 🔍 Exploring the world of Data Analytics, building skills in Python, SQL, Excel, Power BI, and Tableau.
-- 🚀 Passionate about turning raw data into clear, actionable insights that drive decisions.
-- 🛠️ Continuously learning, improving, and contributing — one project at a time.
-- 🎯 Focused on making an impact through data storytelling, dashboarding, and real-world problem solving.
+🎓 Pursuing B.Tech in Computer Science Engineering from Dr. A.P.J. Abdul Kalam Technical University (AKTU), graduating in 2026.
+📊 Exploring the world of Data Analytics, learning and applying skills with Python, SQL, Excel, Power BI, and Tableau.
+💡 Passionate about transforming raw data into actionable insights that drive impactful decisions.
+🚀 Always learning, evolving, and striving to contribute meaningfully to real-world projects.
+✨ Focused on solving problems through storytelling, dashboards, and data-driven strategies.
 
 ---
 
