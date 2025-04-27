@@ -12,12 +12,14 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 Pursuing B.Tech in Computer Science Engineering (Graduating 2026)
-- 📊 Stepping into the Data Analytics field — passion for making sense out of data.
-- 🎯 Currently a **Data Mining & Analytics Intern at UptoSkills**.
-- 🧠 Analytical thinker | Quick learner | Strategic mind.
-- 🔥 Building skills in **Data Analysis**, **SQL**, **Power BI**, **Tableau**, and **Python**.
+## About Me
+- 🎓 B.Tech Computer Science Engineering Student at Dr. A.P.J. Abdul Kalam Technical University (Graduating 2026)
+- 📊 Aspiring Data Analyst — passionate about transforming data into actionable insights.
+- 🚀 Currently sharpening skills in Data Analytics, Data Mining, and Business Intelligence.
+- ⚡ Skilled in Python, SQL, Excel, Power BI, and emerging analytical tools.
+- 🌱 Constantly learning, building projects, and gaining real-world experience through internships.
+- 🎯 Focused on high-impact problem solving with a blend of technical and strategic thinking.
+- 🧠 Growth Mindset | Data-Driven | Minimalist
 
 ---
 
