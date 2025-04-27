@@ -1,9 +1,14 @@
 <h1 align="center">Hi there, I'm Siddharth Chauhan 👋🏻</h1>
-<p align="center"><b>Data Enthusiast | Future Data Analyst | Decision-Maker in the Making</b></p>
+<p align="center"><b>Data Enthusiast | Future Data Scientist | Decision-Maker in the Making</b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00BFFF&center=true&vCenter=true&width=435&lines=Turning+Data+Into+Decisions;Learning+%7C+Analyzing+%7C+Growing" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thesiddemigod&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 
 ---
 
