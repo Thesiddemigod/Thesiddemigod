@@ -83,7 +83,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thesiddemigod&show_icons=true&theme=dark&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thesiddemigod&theme=dark&hide_border=true" width="48%" />
@@ -91,7 +91,7 @@
 
 ---
 
-## ⭐️ Like what you see? 
+## Like what you see? 
 <p align="center">
   <b>If you like my work, don't forget to star my repositories! ⭐</b>
 </p>
