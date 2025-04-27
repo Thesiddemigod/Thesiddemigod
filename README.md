@@ -57,42 +57,29 @@
 
 ---
 
-## 📈 My Journey
-- 🛠️ Current: Data Mining & Analytics Intern at UptoSkills.
-- 🎯 Building expertise in **SQL**, **Advanced Excel**, **Power BI**, **Tableau**, and **Python**.
-- 🏆 Completed foundational certifications in **Data Analytics**, including **Data Analysis**, **Data Visualization**, and **Predictive Analytics**.
-- 🚀 Working on real-world projects using structured and unstructured data.
 
----
-
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thesiddemigod&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
----
-
-## 🤝 Let's Connect
+## Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/thesiddemigod" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/>
   </a>
-  <a href="https://youtube.com/@thesiddemigod" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30px"/>
-  </a>
-  <a href="https://www.facebook.com/thesiddemigod" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30px"/>
-  </a>
-  <a href="https://instagram.com/thesiddemigod" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px"/>
+  <a href="mailto:siddemigod1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px"/>
   </a>
   <a href="https://x.com/Thesiddemigod" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" height="30px"/>
   </a>
-  <a href="mailto:siddemigod1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px"/>
+  <a href="https://youtube.com/@thesiddemigod" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30px"/>
+  </a>
+  <a href="https://instagram.com/thesiddemigod" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px"/>
+  </a>
+  <a href="https://www.facebook.com/thesiddemigod" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30px"/>
   </a>
 </p>
+
 
 ---
 
@@ -104,11 +91,11 @@
 
 ---
 
-<p align="center"><i>"This isn't content. It's canon." 🔥</i></p>
-
----
-
 ## ⭐️ Like what you see? 
 <p align="center">
   <b>If you like my work, don't forget to star my repositories! ⭐</b>
 </p>
+
+---
+
+<p align="center"><i>"This isn't content. It's canon." 🔥</i></p>
