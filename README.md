@@ -13,13 +13,11 @@
 ---
 
 ## About Me
-- 🎓 B.Tech Computer Science Engineering Student at Dr. A.P.J. Abdul Kalam Technical University (Graduating 2026)
-- 📊 Aspiring Data Analyst — passionate about transforming data into actionable insights.
-- 🚀 Currently sharpening skills in Data Analytics, Data Mining, and Business Intelligence.
-- ⚡ Skilled in Python, SQL, Excel, Power BI, and emerging analytical tools.
-- 🌱 Constantly learning, building projects, and gaining real-world experience through internships.
-- 🎯 Focused on high-impact problem solving with a blend of technical and strategic thinking.
-- 🧠 Growth Mindset | Data-Driven | Minimalist
+- 🎓 Currently pursuing B.Tech in Computer Science Engineering from Dr. A.P.J. Abdul Kalam Technical University (AKTU), graduating in 2026.
+- 🔍 Exploring the world of Data Analytics, building skills in Python, SQL, Excel, Power BI, and Tableau.
+- 🚀 Passionate about turning raw data into clear, actionable insights that drive decisions.
+- 🛠️ Continuously learning, improving, and contributing — one project at a time.
+- 🎯 Focused on making an impact through data storytelling, dashboarding, and real-world problem solving.
 
 ---
 
@@ -27,13 +25,11 @@
 ## Tech Stack & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30px"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" height="30px"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" height="30px"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30px"/>
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" height="30px"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30px"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30px"/>
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="30px"/>
   <br><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30px"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30px"/>
