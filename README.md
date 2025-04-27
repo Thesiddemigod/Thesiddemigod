@@ -80,12 +80,13 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px"/>
   </a>
   <a href="https://x.com/Thesiddemigod" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/x-2.svg" height="30px"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" height="30px"/>
   </a>
   <a href="mailto:siddemigod1@gmail.com" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height="30px"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px"/>
   </a>
 </p>
+
 
 ---
 
