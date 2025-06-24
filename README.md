@@ -18,9 +18,6 @@
 💡 Every dataset tells a story. I narrate it with clarity and visual impact.  
 🚀 Lifelong learner focused on solving real-world problems through storytelling, dashboards, and data-driven decisions.
 
-🔍 **Currently working on:**  
-[📊 Global Inflation Analysis Dashboard (1980–2024) → GitHub Link](https://github.com/thesiddemigod/global-inflation-analysis)
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -74,8 +71,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thesiddemigod&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thesiddemigod&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak Stats"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesiddemigod&layout=compact&theme=tokyonight&hide_border=true" width="50%" alt="Top Languages"/>
 </div>
 
 ---
