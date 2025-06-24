@@ -48,9 +48,6 @@
   <a href="mailto:siddemigod1@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px" alt="Gmail"/>
   </a>
-  <a href="https://github.com/thesiddemigod" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="30px" alt="GitHub"/>
-  </a>
   <a href="https://x.com/Thesiddemigod" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="30px" alt="X"/>
   </a>
