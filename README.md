@@ -69,7 +69,7 @@
 ## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thesiddemigod&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.vercel.app?user=thesiddemigod&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=thesiddemigod&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak Stats"/>
 </div>
 
 ---
