@@ -12,20 +12,18 @@
 ---
 
 ## 📖 About Me
-🎓 Pursuing B.Tech in Computer Science Engineering from Dr. A.P.J. Abdul Kalam Technical University (AKTU), graduating in 2026.
 
-📊 Exploring the world of Data Analytics — currently working with Python, SQL, Excel, Power BI, and Tableau.
-
-📚 Passionate about translating raw datasets into meaningful insights and strategies.
-
-💡 I believe every dataset tells a story — it's my job to narrate it through analysis and visualization.
-
-🚀 Lifelong learner focused on solving real-world problems through storytelling, dashboards, and data-driven decisions.
+🎓 Pursuing **B.Tech in Computer Science Engineering** from Dr. A.P.J. Abdul Kalam Technical University (AKTU), graduating in 2026.  
+📊 Exploring the world of **Data Analytics** — currently working with Python, SQL, Excel, Power BI, and Tableau.  
+📚 Passionate about turning **raw data into strategic insights**.  
+💡 I believe every dataset tells a story — it's my job to **narrate it with clarity**.  
+🚀 Lifelong learner focused on solving real-world problems through **storytelling, dashboards, and decision-making**.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-<p align="center">
+
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30px" alt="Python"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30px" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30px" alt="Numpy"/>
@@ -38,12 +36,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30px" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30px" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="30px" alt="VS Code"/>
-</p>
+</div>
 
 ---
 
 ## 🌐 Let's Connect
-<p align="center">
+
+<div align="center">
   <a href="https://linkedin.com/in/thesiddemigod" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" alt="LinkedIn"/>
   </a>
@@ -62,19 +61,29 @@
   <a href="https://facebook.com/thesiddemigod" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30px" alt="Facebook"/>
   </a>
-</p>
+</div>
 
 ---
 
 ## 📈 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thesiddemigod&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thesiddemigod&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=thesiddemigod&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak Stats"/>
+</div>
+
+---
+
+## 🌟 Contribution Activity (Optional)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thesiddemigod&theme=tokyonight&hide_border=true" width="95%" alt="Contribution Graph"/>
 </div>
 
 ---
 
 ## ⭐ Like what you see?
+
 <p align="center">
   <b>If you like my work, don't forget to star my repositories! ⭐</b>
 </p>
